@@ -109,7 +109,7 @@ Below are the key dependencies used in the project:
 
 ## Snapshots
 
-You can view snapshots or a demo of the backend project [Here].
+You can view snapshots or a demo of the backend project [Here]().
 Click the link to explore details.
 
 ## License

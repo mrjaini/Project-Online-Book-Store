@@ -109,7 +109,8 @@ Below are the key dependencies used in the project:
 
 ## Snapshots
 
-You can view snapshots or a demo of the backend project [Here](https://www.linkedin.com/posts/ashu-maurya-9026xxxx_mernstack-webdevelopment-nodejs-activity-7274376374746804225-1M3u?utm_source=share&utm_medium=member_desktop). Click the link to explore details.
+You can view snapshots or a demo of the backend project [Here].
+Click the link to explore details.
 
 ## License
 
@@ -119,7 +120,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to contact:
 
-- **Name**: Ashutosh Maurya
-- **Email**: ashutoshmaxxxx@gmail.com
-- **GitHub**: [Akm Royal](https://github.com/akmroyal)
+- **Name**: Abhishek Jain
+- **Email**: aj230074@gmail.com
+- **GitHub**: [Abhishek Jain](https://github.com/mrjaini)
 
